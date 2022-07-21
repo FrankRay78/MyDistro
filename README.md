@@ -31,4 +31,5 @@ Following the instructions above, the build script was tested on a clean install
 I (Frank Ray) cetainly didn't invent the above, rather I packaged together various ideas and similar approaches I saw elsewhere. I would like pay particular thanks to the following articles (and their authors) for their contribution:
 * [Building a tiny Linux kernel](https://weeraman.com/building-a-tiny-linux-kernel-8c07579ae79d)
 * [A single script to build a minimal live Linux operating system from source code that runs Doom on boot.](https://medium.com/@shadlyd15/a-single-script-to-build-a-minimal-live-linux-operating-system-from-source-code-that-runs-doom-on-fc4c981b1e5)
-* [OSDev.org](https://wiki.osdev.org/Main_Page)
+
+And also the most amazing website, [OSDev.org](https://wiki.osdev.org/Main_Page), for sheer inspiration.
