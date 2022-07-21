@@ -18,7 +18,7 @@ Run the following command to install the required dependencies:
 ## Usage
 **Please note:** Absolutely no warranty is offered, implied or express. Use at your own risk, the author will not be held liable for any damages.
 
-1. Clone the repo locally
+1. Clone this repo locally
 2. Execute `./build.sh`
 3. The script runs, and once finished, will prompt you to hit enter to proceed with booting the distro
 4. The distro boots inside QEMU
