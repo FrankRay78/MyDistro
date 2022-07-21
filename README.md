@@ -4,7 +4,7 @@ My own Linux distro
 ## Overview
 A single shell script to fetch the [Linux kernel](http://kernel.org/) and [BusyBox](https://busybox.net/) source, then build and package them into a bootable 'distro'. 
 
-Busybox is a suite of GNU coreutils type utilities but intended for embedded devices, hence small.
+Busybox is a suite of GNU coreutils *like* utilities but intended for embedded devices, hence small.
 
 The `build` script produces a kernel bzImage and a compressed, cpio rootfs image. Both of these file can easily be packaged again into a single, bootable ISO file, however I've omitted this for the time being and just pass them into QEMU as two arguments. 
 
