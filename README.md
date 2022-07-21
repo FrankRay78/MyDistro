@@ -9,7 +9,7 @@ Busybox is a suite of GNU coreutils *like* utilities but intended for embedded d
 The build script produces a kernel bzImage and a compressed, cpio rootfs image. Both of these file can easily be packaged again into a single, bootable ISO file, however I've omitted this for the time being and just pass them into QEMU as two arguments. 
 
 ## Pre-requisites
-Run the following command to install the required dependencies:
+Run the following commands to install the required dependencies:
 
 `sudo apt install wget make gawk gcc bc bison flex xorriso libelf-dev libssl-dev grub-common`
 
