@@ -21,9 +21,8 @@ Run the following commands to install the required dependencies:
 1. Clone this repo locally
 2. Execute `./build.sh`
 3. The script runs, and once finished, will prompt you to hit enter to proceed with booting the distro
-4. The distro boots inside QEMU
-5. nb. it will appear to hang after a few seconds, however all going well, it's actually finished booting and now ready to accept BusyBox commands. A good one to start with is `pwd`:
-6. 
+4. Hit `enter` - the distro boots inside QEMU
+5. nb. after a few seconds it will appear to hang, however all going well, it's actually finished booting the kernel and is ready to accept BusyBox commands. A good one to start with is `pwd`:
 
 ![image](https://user-images.githubusercontent.com/52075808/180305755-d6dfc5af-6af6-47df-a247-5f0273b9a0a4.png)
 
