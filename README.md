@@ -10,13 +10,14 @@ The `build` script produces a kernel bzImage and a compressed, cpio rootfs image
 
 ## Pre-requisites
 Run the following command to install the required dependencies:
+
 `sudo apt install wget make gawk gcc bc bison flex xorriso libelf-dev libssl-dev grub-common`
 
 ## Usage
 **Please note:** Absolutely no warranty is offered, implied or express. Use at your own risk, the author will not be held liable for any damages.
 
 1. Clone the repo locally
-2. Execute `.build.sh`
+2. Execute `./build.sh`
 3. The script runs, and once finished, will prompt you to hit enter to proceed with booting the distro
 4. The distro boots inside QEMU
 5. nb. it will appear to hang after a few seconds, however all going well, it's actually finished booting and now ready to accept BusyBox commands. A good one to start with is `pwd`:
