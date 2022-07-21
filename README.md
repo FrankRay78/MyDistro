@@ -13,6 +13,8 @@ Run the following command to install the required dependencies:
 
 `sudo apt install wget make gawk gcc bc bison flex xorriso libelf-dev libssl-dev grub-common`
 
+`sudo apt-get install qemu-kvm qemu-utils libvirt-daemon-system libvirt-clients bridge-utils virtinst`
+
 ## Usage
 **Please note:** Absolutely no warranty is offered, implied or express. Use at your own risk, the author will not be held liable for any damages.
 
@@ -29,9 +31,7 @@ Run the following command to install the required dependencies:
 Following the instructions above, the build script was tested on a clean install of Ubuntu 22.04 LTS running inside VMWare Workstation Pro
 
 ## References
-I (Frank Ray) cetainly didn't invent the above, rather I packaged together various ideas and similar approaches I saw elsewhere. 
-
-I would like pay particular thanks to the following articles (and their authors) for their contribution:
+I (Frank Ray) cetainly didn't invent the above, rather I packaged together various ideas and similar approaches I saw elsewhere. I would like pay particular thanks to the following articles (and their authors) for their contribution:
 * [Building a tiny Linux kernel](https://weeraman.com/building-a-tiny-linux-kernel-8c07579ae79d)
 * [A single script to build a minimal live Linux operating system from source code that runs Doom on boot.](https://medium.com/@shadlyd15/a-single-script-to-build-a-minimal-live-linux-operating-system-from-source-code-that-runs-doom-on-fc4c981b1e5)
 
