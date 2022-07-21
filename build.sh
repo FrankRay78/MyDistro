@@ -1,8 +1,8 @@
 #!/bin/sh
 
 #Targets
-DOWNLOAD=false
-BUILD=false
+DOWNLOAD=true
+BUILD=true
 PACKAGE=true
 BOOT=true
 
