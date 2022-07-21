@@ -13,7 +13,7 @@ Run the following command to install the required dependencies:
 
 `sudo apt install wget make gawk gcc bc bison flex xorriso libelf-dev libssl-dev grub-common`
 
-`sudo apt-get install qemu-kvm qemu-utils libvirt-daemon-system libvirt-clients bridge-utils virtinst`
+`sudo apt install qemu-kvm qemu-utils libvirt-daemon-system libvirt-clients bridge-utils virtinst`
 
 ## Usage
 **Please note:** Absolutely no warranty is offered, implied or express. Use at your own risk, the author will not be held liable for any damages.
