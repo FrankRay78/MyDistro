@@ -28,7 +28,7 @@ Run the following command to install the required dependencies:
 ![image](https://user-images.githubusercontent.com/52075808/180305755-d6dfc5af-6af6-47df-a247-5f0273b9a0a4.png)
 
 ## Testing
-Following the instructions above, the build script was tested on a clean install of Ubuntu 22.04 LTS running inside VMWare Workstation Pro
+Following the instructions above, the build script was tested on a clean install of Ubuntu 22.04 LTS running inside VMWare Workstation Pro.
 
 ## References
 I (Frank Ray) cetainly didn't invent the above, rather I packaged together various ideas and similar approaches I saw elsewhere. I would like pay particular thanks to the following articles (and their authors) for their contribution:
