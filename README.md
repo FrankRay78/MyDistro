@@ -10,7 +10,7 @@ The `build` script produces a kernel bzImage and a compressed, cpio rootfs image
 
 ## Pre-requisites
 Run the following command to install the required dependencies:
-`sudo apt install`
+`sudo apt install wget make gawk gcc bc bison flex xorriso libelf-dev libssl-dev grub-common`
 
 ## Usage
 **Please note:** Absolutely no warranty is offered, implied or express. Use at your own risk, the author will not be held liable for any damages.
